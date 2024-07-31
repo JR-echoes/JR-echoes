@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JR-echoes
 - 👀 I’m interested in solving problems related to Power System using AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning using Python
 - 💞️ I’m looking to collaborate on solving power system problems using codes
 - 📫 If you want to reach out to me, send me an email at janardankonewid(at)gmail(dot)com
 - 😄 Pronouns: ...
